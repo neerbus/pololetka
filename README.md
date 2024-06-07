@@ -9,8 +9,8 @@
 2. set up programu
 
   aby tento script fungoval, musi byt upraven na dvou mistech. tyto mista jsou prvni dva radky. mezi pomlcky je potreba doplnit lokaci odpovidajich souboru.
-  jestli nevite jak se ziskava lokace programu -> https://www.youtube.com/watch?v=MVoQhYWJuvw . bohuzel tato lokace se zkopiruje s "\" a ne s "/". python
-  spatne reaguje na "\" ve stringu, protoze se pouziva napr. jako konec radku ve slove, proto musite zmenit "\" na "/", aby program fungoval. po zadani lokaci
+  jestli nevite jak se ziskava lokace programu -> https://www.youtube.com/watch?v=MVoQhYWJuvw . bohuzel tato lokace se zkopiruje s "\\" a ne s "/". python
+  spatne reaguje na "\" ve stringu, protoze se pouziva napr. jako konec radku ve slove, proto musite zmenit "\\" na "/", aby program fungoval. po zadani lokaci
   souboru by program mel normalne fungovat.
 
 3. jak funguje?
