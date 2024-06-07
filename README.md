@@ -8,11 +8,13 @@
   
 2. set up programu
 
-  aby tento script fungoval, musi byt upraven na dvou mistech. tyto mista jsou prvni dva radky. mezi pomlcky je potreba doplnit lokaci odpovidajich souboru.
+  aby tento script fungoval, musi byt upraven na dvou mistech. abyste mohli program upravit musite po stahnuti jit na misto, kam jste stahli ten zip file a extrahtovat
+  (pravou misi kliknete na ten folder a tam vyberte extrahtovat). pote otevrete idle a tam dejte file v pravem hornim rohu a potom open. tady vyberte pololetka.py a
+  potom muzete delat zmeny. tyto mista jsou prvni dva radky. mezi pomlcky je potreba doplnit lokaci odpovidajich souboru. 
   jestli nevite jak se ziskava lokace programu -> https://www.youtube.com/watch?v=MVoQhYWJuvw . bohuzel tato lokace se zkopiruje s "\\" a ne s "/". python
   spatne reaguje na "\\" ve stringu, protoze se pouziva napr. jako konec radku ve slove, proto musite zmenit "\\" na "/", aby program fungoval. lokace programu se
   nejspise zkopiruje s pomlckama okolo, ty je take potreba smazat. melo by to vypadat takhle: lokace2 = "C:/Users/JmenoUzivatele/Desktop/downloads/pololetka.txt".
-  lokace bude jina podle toho, kam ji ulozite. po zadani lokaci souboru by program mel normalne fungovat.
+  lokace bude jina podle toho, kam ji ulozite. po zadani lokaci souboru by program mel normalne fungovat. nezapomente program ulozit a pote muzete spustit.
 
 3. jak funguje?
    
