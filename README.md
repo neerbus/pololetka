@@ -19,7 +19,6 @@
   
 3. syntax odpovedi
 
-  1. odpovedi musi byt psane bez hacku a carek. specialni znaky mohou byt pouzity, ale jenom jedina odpoved vyzaduje jejich pouziti.
-  2. pokud za odpovedy date mezeru nebo tam bude nejaka navic tak je to pocitane za chybu
-  3. program je psany v malych pismenech, ale u odpovedi ignoruje velka mala.
+  a. odpovedi musi byt psane bez hacku a carek. specialni znaky mohou byt pouzity, ale jenom jedina odpoved vyzaduje jejich pouziti. pokud za odpovedy date mezeru nebo 
+  tam bude nejaka navic tak je to pocitane za chybu. program je psany v malych pismenech, ale u odpovedi ignoruje velka mala.
 
